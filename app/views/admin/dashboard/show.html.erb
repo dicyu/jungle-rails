@@ -1,12 +1,27 @@
 <h1>Admin &raquo; Dashboard</h1>
+<div class="panel panel-default items">
+
+  <table class="table table-bordered table-hover">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Quantity</th>
+      </tr>
+    </thead>
 
     <tbody>
       <tr>
+        <td>
+          <%= link_to 'Product Count', '/admin/products' %>
+        </td>
         <td>
           <%= @product_count %>
         </td>
       </tr>
       <tr>
+        <td>
+          <%= link_to 'Category Count', '/admin/categories' %>
+        </td>
         <td>
           <%= @category_count %>
         </td>
