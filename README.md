@@ -6,6 +6,23 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 Main Page
 ![Alt text](https://github.com/dicyu/jungle-rails/blob/master/docs/Main%20Page.png "Main Page")
 
+Cart
+![Alt text](https://github.com/dicyu/jungle-rails/blob/master/docs/Cart.png "Cart")
+
+Empty Cart
+![Alt text](https://github.com/dicyu/jungle-rails/blob/master/docs/Empty%20Cart.png "Empty Cart")
+
+Admin
+![Alt text](https://github.com/dicyu/jungle-rails/blob/master/docs/Admin.png "Admin")
+
+Admin Dash
+![Alt text](https://github.com/dicyu/jungle-rails/blob/master/docs/AdminDash.png "Admin Dash")
+
+Categories
+![Alt text](https://github.com/dicyu/jungle-rails/blob/master/docs/Categories.png "Categories")
+
+
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
