@@ -3,7 +3,8 @@
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
 # Screenshots
-![Alt text](http://full/path/to/img.jpg "Optional title")
+Main Page
+![Alt text](https://github.com/dicyu/jungle-rails/blob/master/docs/Main%20Page.png "Main Page")
 
 ## Additional Steps for Apple M1 Machines
 
